@@ -1,19 +1,18 @@
 .main-content {
-    width: 30%;
-    margin-left: 150px;
-    margin-top: 75px;
+    /* margin-top: 75px; */
+    height: 100vh;
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }
 
 .content-perfil {
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    margin: 35px;
+    
 }
 
 .content-perfil img {
@@ -31,7 +30,7 @@
 .content-perfil h6 {
     margin-top: 5px;
     opacity: 0.8;
-    font-size: 15pt;
+    font-size: 12pt;
     font-weight: 400;
 }
 
